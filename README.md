@@ -33,32 +33,42 @@
 
 <div align="center">
 
-<sub><b>LANGUAGES</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,mysql&theme=dark" height="55"/>
-
-<br/>
-
-<sub><b>FRAMEWORKS & DATABASES</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="55"/>
-
-<br/>
-
-<sub><b>CLOUD & DEVOPS</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,nginx,git,github,postman,vercel&theme=dark" height="55"/>
-
-<br/>
-
-<sub><b>TOOLS</b></sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" height="55"/>
+<img src="https://img.shields.io/badge/LANGUAGES-A78BFA?style=for-the-badge&labelColor=1a1a2e" height="28"/>
 
 <br/><br/>
 
-<sub><b>AWS SERVICES</b></sub>
-<br/>
+<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,mysql&theme=dark" height="60"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FRAMEWORKS%20%26%20DATABASES-8B5CF6?style=for-the-badge&labelColor=1a1a2e" height="28"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="60"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-6a35d4?style=for-the-badge&labelColor=1a1a2e" height="28"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=aws,nginx,git,github,postman,vercel&theme=dark" height="60"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TOOLS-7C3AED?style=for-the-badge&labelColor=1a1a2e" height="28"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" height="60"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS%20SERVICES-FF9900?style=for-the-badge&labelColor=1a1a2e" height="28"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
@@ -70,8 +80,10 @@
 
 <br/><br/>
 
-<sub><b>BACKEND & SECURITY</b></sub>
-<br/>
+<img src="https://img.shields.io/badge/BACKEND%20%26%20SECURITY-22C55E?style=for-the-badge&labelColor=1a1a2e" height="28"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Bcrypt-338033?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Helmet.js-49C5B6?style=for-the-badge" />
