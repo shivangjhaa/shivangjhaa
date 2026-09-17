@@ -31,23 +31,46 @@ I'm a **Computer Science** engineer who loves building practical software and un
 
 ## 🌌 Technology Universe
 
+<sub>Click any logo to learn more about that technology.</sub>
+
 <div align="center">
 
 **Programming Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python,mysql&theme=dark" />
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" /></a>
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" /></a>
+
+<br/><br/>
 
 **Full-Stack Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" />
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" /></a>
+
+<br/><br/>
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,nginx,git,github,postman,docker&theme=dark" />
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" /></a>
+<a href="https://nginx.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="Nginx" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /></a>
+
+<br/><br/>
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" />
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" /></a>
 
 </div>
 
@@ -143,20 +166,6 @@ Smaller projects built to sharpen programming and backend fundamentals.
 </td>
 </tr>
 </table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:312e81&height=2&width=100%" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivangjhaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangjhaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangjhaa&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
 
 </div>
 
